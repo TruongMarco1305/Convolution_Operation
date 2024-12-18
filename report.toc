@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
-\contentsline {section}{\numberline {2}Convolution operation}{1}{section.2}%
-\contentsline {section}{\numberline {3}Explanation of the Algorithm}{1}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Overview}{2}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Detail Explanation}{2}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Sample output}{3}{section.4}%
